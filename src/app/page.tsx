@@ -2,7 +2,7 @@
 
   const page = () => {
     return  (
-      <div><figure className="md:flex bg-green-500 rounded-xl p-8 md:p-0 dark:bg-slate-800">
+      <div><figure className="flex full-bg-red-300 rounded-xl p-8 md:p-0 dark:bg-slate-800">
       <img className="w-24 h-24 md:w-48 md:h-auto md:rounded-none rounded-full mx-auto" src="/my-pic.jpg" alt="" width="384" height="512"/>
       <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
         <blockquote>
